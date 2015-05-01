@@ -32,7 +32,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 *******************************************************************************/
-
+#include <algorithm>
 #include "DspFilters/Common.h"
 #include "DspFilters/RootFinder.h"
 #include <stdexcept>
